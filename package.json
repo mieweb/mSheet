@@ -11,7 +11,7 @@
     "@nx/eslint": "22.5.1",
     "@nx/eslint-plugin": "22.5.1",
     "@nx/js": "22.5.3",
-    "@nx/react": "^22.5.3",
+    "@nx/react": "^22.6.0",
     "@nx/vite": "22.5.3",
     "@nx/vitest": "22.5.1",
     "@nx/web": "22.5.3",
